@@ -2,20 +2,20 @@
 
 Altere este arquivo preenchendo os campos:
 
-Nome:
+Nome: Mateus José da Silva Gomes
+ 
+E-mail: mateusgomes.mjdsg@gmail.com   
 
-E-mail:
+Telefone: (42)998383081
 
-Telefone:
+Cidade: Ponta grossa
 
-Cidade:
+Instituição de Ensino: Universidade Estadual de Ponta Grossa - UEPG
 
-Instituição de Ensino:
+RA: 19007526
 
-RA:
+Curso: Engenharia de Computação
 
-Curso:
+Período/Série: 3° Ano
 
-Período/Série:
-
-Minha experiencia com desenvolvimento:
+Minha experiencia com desenvolvimento: Muito pouca, mais voltado para a área de embarcados, em empresas é nula.
