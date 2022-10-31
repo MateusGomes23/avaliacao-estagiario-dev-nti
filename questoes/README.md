@@ -15,4 +15,4 @@ Responda as questões neste mesmo arquivo.
     Conheço a API REST. São utilizadas para criar uma integração de sistemas, podendo vários clientes realizar o acesso a esta API. Dois Exemplos são o  POST e o GET, onde o GET obtém as informações(ex: obter informação do usuário) e o POST ele envia as informações(ex: criação de usuário).
 
 5. Conhece o conceito de AJAX? Descreva a tecnologia utilizada.
-    
+    Nao conhecia até o momento. O conceito de AJAX é sobre comunicação assíncrona, entre o JavaScript(JS) e o HTML.
